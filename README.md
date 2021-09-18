@@ -1,5 +1,5 @@
 # Bloc 1: Javascript. UT 2: Arrays
-## Práctica 2.1 - Notas
+## Práctica 2.2 - Notas de Alumnos
 Vamos a hacer un programa para trabajar con las notas de los alumnos que tendremos almacenadas en un array de objetos llamado `datosAlumnos`. El contenido de cada elemento del array es un objeto como el siguiente:
 
 ```json
